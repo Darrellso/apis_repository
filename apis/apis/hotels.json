@@ -1,0 +1,299 @@
+[
+  {
+    "hotelName": "",
+    "description": "",
+    "idHotel": "1",
+    "roomsList": [
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      }
+    ],
+    "image": "",
+    "id": "1"
+  },
+  {
+    "hotelName": "",
+    "description": "",
+    "idHotel": "2",
+    "roomsList": [
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      }
+    ],
+    "image": "",
+    "id": "2"
+  },
+  {
+    "hotelName": "",
+    "description": "",
+    "idHotel": "3",
+    "roomsList": [
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      }
+    ],
+    "image": "",
+    "id": "3"
+  },
+  {
+    "hotelName": "",
+    "description": "",
+    "idHotel": "4",
+    "roomsList": [
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      }
+    ],
+    "image": "",
+    "id": "4"
+  },
+  {
+    "hotelName": "",
+    "description": "",
+    "idHotel": "5",
+    "roomsList": [
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      }
+    ],
+    "image": "",
+    "id": "5"
+  },
+  {
+    "hotelName": "",
+    "description": "",
+    "idHotel": "6",
+    "roomsList": [
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      }
+    ],
+    "image": "",
+    "id": "6"
+  },
+  {
+    "hotelName": "",
+    "description": "",
+    "idHotel": "7",
+    "roomsList": [
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      }
+    ],
+    "image": "",
+    "id": "7"
+  },
+  {
+    "hotelName": "",
+    "description": "",
+    "idHotel": "8",
+    "roomsList": [
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      },
+      {
+        "roomName": "",
+        "features": "",
+        "roomImage": "",
+        "price": "",
+        "discount": ""
+      }
+    ],
+    "image": "",
+    "id": "8"
+  }
+
+]
