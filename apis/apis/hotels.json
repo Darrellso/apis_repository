@@ -1,299 +1,1191 @@
 [
   {
-    "hotelName": "",
-    "description": "",
-    "idHotel": "1",
     "roomsList": [
       {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
+        "roomName": "Garden View",
+        "features": "Shower, Safety deposit box, Toilet, Towels, Linen, Shared bathroom, Fan, Towels/sheets.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/backpacker-resort/backpacker-room1.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 600,
+        "id": "arenal-backpackers"
       },
       {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
+        "roomName": "Stantard Room",
+        "features": "Garden view, Air conditioning, Shower, Toilet, Towels, air conditioning for guest accommodation",
+        "roomImage": "../../../imgs/la-fortuna/hotels/backpacker-resort/backpacker-room2.jpg",
+        "discount": true,
+        "dicount-value": 400,
+        "value": 500,
+        "id": "arenal-backpackers"
       },
       {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
+        "roomName": "Cylinder Room",
+        "features": "1 large double bed, Featuring colourful glass doors, these adults-only rooms offer views of the Arenal Volcano and the surrounding mountains.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/backpacker-resort/backpacker-room3.jpeg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 700,
+        "id": "arenal-backpackers"
       },
       {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
+        "roomName": "Safari Tent",
+        "features": "1 double bed. This tent fits up to 2 people. The bathroom and shower are shared.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/backpacker-resort/backpacker-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 500,
+        "id": "arenal-backpackers"
+      },
+      {
+        "roomName": "Junior Suites",
+        "features": "1 or 2 Queen Beds Enjoy the best view of the Arenal Volcano, the rainforest, the birds, and the howler monkeys from the privacy of your balcony. The Junior Suites are located next to the main building. They all have air-conditioned",
+        "roomImage": "../../../imgs/la-fortuna/hotels/arenal-lodge/arenal-lodge-room1.jpg",
+        "discount": true,
+        "dicount-value": 589,
+        "value": 1000,
+        "id": "arenal-lodge"
+      },
+      {
+        "roomName": "Family Suites",
+        "features": "These suites are apartments with connecting doors. Family suites are equipped with a microwave oven, a coffee maker, and a mini fridge. The family suites have two bedrooms and a separate living room",
+        "roomImage": "../../../imgs/la-fortuna/hotels/arenal-lodge/arenal-lodge-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 380,
+        "id": "arenal-lodge"
+      },
+      {
+        "roomName": "Family Standar Suite 1 with Kitchen",
+        "features": "A 1 floor standard apartment perfect for a family or group of friends, the kitchen is equipped with a microwave oven, a coffee maker, and a mini fridge, a dinner room. The apartment has 2 private bedrooms and 1 bathroom each",
+        "roomImage": "../../../imgs/la-fortuna/hotels/arenal-lodge/arenal-lodge-room3.jpeg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 780,
+        "id": "arenal-lodge"
+      },
+      {
+        "roomName": "Panoramic Chalet",
+        "features": "These large rooms, built as separate chalets, are perched on top of the hill behind the main building; they offer an incredible panoramic view of the Arenal Volcano and lake. The Chalets have one king-sized bed and one queen-sized bed, or 2 queen-sized beds",
+        "roomImage": "../../../imgs/la-fortuna/hotels/arenal-lodge/arenal-lodge-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 950,
+        "id": "arenal-lodge"
+      },
+      {
+        "roomName": "Standard Double Room",
+        "features": "1 double bed, 25 m² Garden view, Air conditioning, Ensuite bathroom, TV",
+        "roomImage": "../../../imgs/la-fortuna/hotels/la-choza/la-choza-room1.jpg",
+        "discount": true,
+        "dicount-value": 980,
+        "value": 1200,
+        "id": "la-choza"
+      },
+      {
+        "roomName": "4 bed dorms",
+        "features": "With air-conditioning, lockers, Includes bed linen, hand sanitizer, fridge, coffee maker.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/la-choza/la-choza-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 750,
+        "id": "la-choza"
+      },
+      {
+        "roomName": "Superior Double Room",
+        "features": "2 double beds 30 m²Air conditioningEnsuite bathroomFree WiFi",
+        "roomImage": "../../../imgs/la-fortuna/hotels/la-choza/la-choza-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 1500,
+        "id": "la-choza"
+      },
+      {
+        "roomName": "6 bed dorms",
+        "features": "With air-conditioning, lockers, Includes bed linen, hand sanitizer, fridge, coffee maker.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/la-choza/la-choza-room4.jpg",
+        "discount": true,
+        "dicount-value": 358,
+        "value": 900,
+        "id": "la-choza"
+      },
+      {
+        "roomName": "Triple Room",
+        "features": " large double beds Garden and Mountain view, Air conditioning, Patio, Ensuite bathroom, Flat-screen TV, Coffee machine, Desk, Private entrance.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/loma-real/loma-real-room1.jpg",
+        "discount": true,
+        "dicount-value": 680,
+        "value": 390,
+        "id": "loma-real"
+      },
+      {
+        "roomName": "Standard Double Room, 2 Double Beds",
+        "features": "This double room has air conditioning. It also includes bedding, coffee maker, flat screen TV, patio, bathtub or shower, towels.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/loma-real/loma-real-room2.jpg",
+        "discount": true,
+        "dicount-value": 780,
+        "value": 300,
+        "id": "loma-real"
+      },
+      {
+        "roomName": "Family Room",
+        "features": "Perfect for a family of 4 or more, with patio, air conditioning and private entrance. Also includes 2 double beds, bath or shower, towels, tea/coffee maker, flat screen TV, also includes a great mountain view.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/loma-real/loma-real-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 300,
+        "id": "loma-real"
+      },
+      {
+        "roomName": "Economy Double Room",
+        "features": "This double room has a patio, private entrance and cable TV. Includes bed linen, hand sanitizer, fridge.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/loma-real/loma-real-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 700,
+        "id": "loma-real"
+      },
+      {
+        "roomName": "Deluxe Double Room with Two Double Beds",
+        "features": "2 double beds Balcony, Garden view, Air conditioning, Ensuite bathroom, Flat-screen TV, Bath or shower, Towels, Desk, Refrigerator.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/orquideas-boutique/orquideas-room1.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 500,
+        "id": "orquideas-boutique"
+      },
+      {
+        "roomName": "Bungalow room",
+        "features": "This double room has air conditioning and flat-screen TV. It also has a bath or shower, towels, fridge and tea/coffee service, WiFi, 2 double beds.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/orquideas-boutique/orquideas-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 600,
+        "id": "orquideas-boutique"
+      },
+      {
+        "roomName": "Economy Double Room",
+        "features": "This double room has air conditioning and flat-screen TV. It also has a bath or shower, towels, tea/coffee service, 2 double beds and views of the city, the garden and the landscape.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/orquideas-boutique/orquideas-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 400,
+        "id": "orquideas-boutique"
+      },
+      {
+        "roomName": "2 bedroom house",
+        "features": "This holiday home has air conditioning, tea/coffee maker and kitchen.It also has a bath or shower, towels, fridge, microwave, dining table, sofa, WiFi, pool, and the first bedroom has 1 double bed and the second one has 2 bunk beds.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/orquideas-boutique/orquideas-room1.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 560,
+        "id": "orquideas-boutique"
+      },
+      {
+        "roomName": "Superior Double Room with Volcano View",
+        "features": "2 large double beds 42m² Balcony, Garden, Mountain and Landmark view, Pool with a view, Inner courtyard, Air conditioning, Ensuite bathroom, Flat-screen TV, Terrace",
+        "roomImage": "../../../imgs/la-fortuna/hotels/arenal-paraiso/arenal-paraiso-room1.jpg",
+        "discount": true,
+        "dicount-value": 780,
+        "value": 300,
+        "id": "superior-double"
+      },
+      {
+        "roomName": "Villa with views of the volcano",
+        "features": "This room has a terrace, garden views, WiFi, breakfast, also with a microwave oven, a coffee maker, a mini fridge, flat screen tv and hot tub. The first bedroom has 1 extra-large double bed, the second one has 2 large double beds and the living room has 1 sofa bed.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/arenal-paraiso/arenal-paraiso-room2.jpg",
+        "discount": true,
+        "dicount-value": 265,
+        "value": 300,
+        "id": "superior-double"
+      },
+      {
+        "roomName": "Standard Double Room",
+        "features": "Air-conditioned room offering views of the Arenal Volcano from its private terrace. It also features cable TV, a coffee maker, a small fridge and 2 double beds. The bathroom provides a hairdryer and free toiletries.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/arenal-paraiso/arenal-paraiso-room3.jpg",
+        "discount": true,
+        "dicount-value": 694,
+        "value": 300,
+        "id": "superior-double"
+      },
+      {
+        "roomName": "Superior Double Room with Volcano View and Canopy Tour",
+        "features": "During your stay you can enjoy a canopy tour per person per stay, this tour is available on site of the property and you must schedule the activity at the check in. Air-conditioned room situated on the second floor, offering stunning views of the Arenal Volcano from its private terrace. It also features cable TV, a coffee maker, a small fridge, safety box and 2 double beds. ",
+        "roomImage": "../../../imgs/la-fortuna/hotels/arenal-paraiso/arenal-paraiso-room4.jpg",
+        "discount": true,
+        "dicount-value": 358,
+        "value": 300,
+        "id": "superior-double"
+      },
+      {
+        "roomName": "Small Room Shared Bathroom",
+        "features": "1 double bed, bed linen, towels, free toiletries, and hot water.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/selina-fortuna/selina-fortuna-room1.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 758,
+        "id": "selina-fortuna"
+      },
+      {
+        "roomName": "Standard room",
+        "features": "Our Standard room offers two guests the ideal space to relax comfortably in complete privacy. It has free Wi-Fi, air conditioning, bed linen, towels, free toiletries, and hot water. Capacity of 2 people.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/selina-fortuna/selina-fortuna-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 987,
+        "id": "selina-fortuna"
+      },
+      {
+        "roomName": "Suite Room",
+        "features": "The Suite room comes complete with a private bathroom, air conditioning, coffee machine, bed linen, towels, free toiletries, hot water. Capacity of 2 people.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/selina-fortuna/selina-fortuna-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 478,
+        "id": "selina-fortuna"
+      },
+      {
+        "roomName": "Standard Teepee",
+        "features": "Our cozy teepees have a beautiful design and are unique spaces that guarantee a comfortable sleep and an unforgettable experience. The bathroom is shared and has free Wi-Fi, bed linen and towels. Capacity of 2 people.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/selina-fortuna/selina-fortuna-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 369,
+        "id": "selina-fortuna"
+      },
+      {
+        "roomName": "Three-Bedroom Premier Suite",
+        "features": "First Bedroom: 1 extra-large double bed,Second Bedroom: 2 large double beds, Third Bedroom: 1 single bed  and 1 large double bed,Living room: 1 sofa bed, These suites feature views, a living room and a balcony with 8-person hot tub. The balcony has sofa seating, dining table.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/springs-resort&spa /the-springs-room1.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 896,
+        "id": "springs-resort"
+      },
+      {
+        "roomName": "Family Suite",
+        "features": "Has a mezzanine bedroom above with its own private bath.There is a king Size bed on the lower master level and one king size bed on the second level. The large balcony is furnished with two Hammocks, Rocking Chairs and Table seating with a view of the Volcano and Telephone and Wireless Internet Access.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/springs-resort&spa /the-springs-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 780,
+        "id": "springs-resort"
+      },
+      {
+        "roomName": "Private suite",
+        "features": "It has Balcony, Garden and Mountain view, Air conditioning, Spa, Private bathroom, Flat-screen TV, Coffee machine, Minibar,Hot tub, Bathrobe, Safety deposit box, Additional bathroom, Streaming service (like Netflix), Sofa.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/springs-resort&spa /the-springs-room3.jpg",
+        "discount": true,
+        "dicount-value": 456,
+        "value": 300,
+        "id": "springs-resort"
+      },
+      {
+        "roomName": "Penthouse Two-Bedroom Aracari Suite",
+        "features": "This Fourth-Floor Corner-Suite has a Magnificent View, a Large Master Bedroom, Balcony, a Living and Dining Room, and a Second Bedroom with Two Twin Beds and a Full Bath. The Master Bedroom and Living Area have Full-Size Pull-Out Sofas.",
+        "roomImage": "../../../imgs/la-fortuna/hotels/springs-resort&spa /the-springs-room4.jpg",
+        "discount": true,
+        "dicount-value": 365,
+        "value": 300,
+        "id": "springs-resort"
+      },
+      {
+        "roomName": "Bungalow de 1 dormitorio",
+        "features": "It includes garden and inner courtyard  views, Air-conditioning, Yard, bathroom in the room, Coffee maker, Minibar and 1 extra-large double bed",
+        "roomImage": "../../../imgs/limon/hotels/agua-clara/agua-clara-room1.jpeg",
+        "discount": true,
+        "dicount-value": 852,
+        "value": 300,
+        "id": "agua-clara"
+      },
+      {
+        "roomName": "Deluxe room",
+        "features": "This features 1 extra-large double bed, with a balcony, minibar, sofa, coffee maker, dining table, sofa, closet, seating and dining area, telephone, air conditioning",
+        "roomImage": "../../../imgs/limon/hotels/agua-clara/agua-clara-room2.jpeg",
+        "discount": true,
+        "dicount-value": 789,
+        "value": 300,
+        "id": "agua-clara"
+      },
+      {
+        "roomName": "Accommodation Pavlova Sweets",
+        "features": "This features 1 extra-large double bed, minibar, sofa, dining table, couch, closet, telephone, air conditioning, free WiFi, and en-suite bathroom. It has a garden view.",
+        "roomImage": "../../../imgs/limon/hotels/agua-clara/agua-clara-room3.jpeg",
+        "discount": true,
+        "dicount-value": 654,
+        "value": 300,
+        "id": "agua-clara"
+      },
+      {
+        "roomName": "Floralia House",
+        "features": "This has 6 single beds and 2 extra-large double beds, refrigerator, microwave, coffee maker, kitchen utensils, toaster, access to upper floors of the house only by stairs, seating area and dining area with its table, air conditioning. It has a garden view.",
+        "roomImage": "../../../imgs/limon/hotels/agua-clara/agua-clara-room4.jpeg",
+        "discount": true,
+        "dicount-value": 654,
+        "value": 800,
+        "id": "agua-clara"
+      },
+      {
+        "roomName": "Stantard Suite",
+        "features": "1 extra-large double bed This suite has a balcony, sofa and seating area. Garden Landmark view, Pool, Inner courtyard, Patio, Private entrance, Tea/Coffee maker, Fan, Dressing room",
+        "roomImage": "../../../imgs/limon/hotels/exotico-beach&rooms/exotico_beach-room1.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 500,
+        "id": "exotico-beach"
+      },
+      {
+        "roomName": "Family Suite",
+        "features": "Air conditioning, 1 extra-large double bed  and 1 large double bed.This suite features a balcony, tea/coffee maker and electric kettle.",
+        "roomImage": "../../../imgs/limon/hotels/exotico-beach&rooms/exotico_beach-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 700,
+        "id": "exotico-beach"
+      },
+      {
+        "roomName": "Private superior suite",
+        "features": "77 m², Balcony, Garden, Mountain view, Pool with a view, Patio, Ensuite bathroom, Bathrobe, Sofa, Bath or shower, Towels, Desk Seating Area.",
+        "roomImage": "../../../imgs/limon/hotels/exotico-beach&rooms/exotico_beach-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 600,
+        "id": "exotico-beach"
+      },
+      {
+        "roomName": "Double room",
+        "features": "Double room with balcony, air conditioning and seating area. With garden and pool views",
+        "roomImage": "../../../imgs/limon/hotels/exotico-beach&rooms/exotico_beach-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 450,
+        "id": "exotico-beach"
+      },
+      {
+        "roomName": "Superior Room",
+        "features": "From your private balcony, you have a beautiful view of the verdant tropical flora. Each Superior room has one Queen-size bed or one Queen-size Bed and one Double Bed. Also you can find, coffee/tea maker, minibar, air conditioning, TV with cable channels and daily housekeeping.",
+        "roomImage": "../../../imgs/limon/hotels/le-camaleon-boutique/camaleon-room1.jpg",
+        "discount": true,
+        "dicount-value": 698,
+        "value": 1000,
+        "id": "le-cameleon"
+      },
+      {
+        "roomName": "Ocean suite Beachfront",
+        "features": "Has a room with queen-size beds and a lounge to guarantee you to capitalize on your visit. Also you can find coffee/tea maker, minibar, and room service, air conditioning.",
+        "roomImage": "../../../imgs/limon/hotels/le-camaleon-boutique/camaleon-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 300,
+        "id": "le-cameleon"
+      },
+      {
+        "roomName": "Junior suite",
+        "features": "They are conveniently close to our relaxing pool, Each suite has a comfortable King size bed and a sofa bed. Also you can find minibar, and room service, air conditioning, TV with cable channels",
+        "roomImage": "../../../imgs/limon/hotels/le-camaleon-boutique/camaleon-room3.jpg",
+        "discount": true,
+        "dicount-value": 700,
+        "value": 1400,
+        "id": "le-cameleon"
+      },
+      {
+        "roomName": "Family room",
+        "features": "Located on the ground and first floor, our Family rooms have spectacular views of Le Caméléon’s blooming tropical gardens. Each Family room has two full-size beds or one queen and one full size bed. Also you can find air conditioning, TV with cable channels and daily housekeeping.",
+        "roomImage": "../../../imgs/limon/hotels/le-camaleon-boutique/camaleon-room4.jpg",
+        "discount": true,
+        "dicount-value": 500,
+        "value": 800,
+        "id": "le-cameleon"
+      },
+      {
+        "roomName": "Deluxe Villas",
+        "features": "Bedroom 1: 2 bunk beds  and 1 large double bed,Bedroom 2: 1 large double bed, Living room: 1 sofa bed,Private kitchen, Private bathroom, Private pool, Balcony.",
+        "roomImage": "../../../imgs/limon/hotels/new-caribe-hotel/new-caribe-room1.jpg",
+        "discount": true,
+        "dicount-value": 800,
+        "value": 1600,
+        "id": "new-caribe"
+      },
+      {
+        "roomName": "Two-Bedroom Villa 1",
+        "features": "Garden view, Air conditioning, Bedroom 1: 1 large double bed Bedroom 2: 2 bunk beds, Private kitchen, Private bathroom, Private pool, Balcony.",
+        "roomImage": "../../../imgs/limon/hotels/new-caribe-hotel/new-caribe-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 800,
+        "id": "new-caribe"
+      },
+      {
+        "roomName": "2 bedroom villa",
+        "features": "You can find a refrigerator, microwave, coffee maker, kitchen utensils, toaster, kitchen, washing machine, seating area and dining area with its table, flat screen tv, air conditioning, private pool and a barbecue place. It has a garden view.",
+        "roomImage": "../../../imgs/limon/hotels/new-caribe-hotel/new-caribe-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 600,
+        "id": "new-caribe"
+      },
+      {
+        "roomName": "Family Room",
+        "features": "You can find a refrigerator, microwave, coffee maker, kitchen, washing machine, balcony, air conditioning and seating area. With garden and pool views.",
+        "roomImage": "../../../imgs/limon/hotels/new-caribe-hotel/new-caribe-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 1200,
+        "id": "new-caribe"
+      },
+      {
+        "roomName": "Superior room",
+        "features": "This has a balcony, wardrobe, air conditioning, and a TV with cable channels. With garden view and only with one bed",
+        "roomImage": "../../../imgs/limon/hotels/pacuare/pacuare-room1.png",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 1300,
+        "id": "hotel-pacuare"
+      },
+      {
+        "roomName": "Superior double room",
+        "features": "This has a balcony, wardrobe, air conditioning, and a TV with cable channels. With garden views and free Wi-Fi. With 2 beds",
+        "roomImage": "../../../imgs/limon/hotels/pacuare/pacuare-room2.png",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 700,
+        "id": "hotel-pacuare"
+      },
+      {
+        "roomName": "Garden Suites",
+        "features": "Private suite and pool, Garden view, River view, Patio, Private bathroom, Shower,Toilet, Towels.This suite has a seating area.",
+        "roomImage": "../../../imgs/limon/hotels/pacuare/pacuare-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 500,
+        "id": "hotel-pacuare"
+      },
+      {
+        "roomName": "River View Suites",
+        "features": "This suite features a private entrance and seating area. Private suite, Garden view, River view, Patio, Private bathroom, Shower,Toilet, Towels.",
+        "roomImage": "../../../imgs/limon/hotels/pacuare/pacuare-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 300,
+        "id": "hotel-pacuare"
+      },
+      {
+        "roomName": "Bed in small dormitory room",
+        "features": "Air conditioning, Compact and modest, the micro room is perfect if you are looking for a place to sleep and a small area to store your belongings. The bathroom is shared.It has free Wi-Fi, air conditioning, bed linen, towels, free toiletries, and hot water. ",
+        "roomImage": "../../../imgs/limon/hotels/selina/selina-limon-room1.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 400,
+        "id": "hotel-selina"
+      },
+      {
+        "roomName": "Stantard Room",
+        "features": "Our Standard room offers two guests the ideal space to relax comfortably in complete privacy. It has free Wi-Fi, air conditioning, bed linen, towels, free toiletries, and hot water. ",
+        "roomImage": "../../../imgs/limon/hotels/selina/selina-limon-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 800,
+        "id": "hotel-selina"
+      },
+      {
+        "roomName": "Suite Room",
+        "features": "The Suite room comes complete with a private bathroom, free Wi-Fi, air conditioning, coffee machine, bed linen, towels, free toiletries, hot water. Capacity of 2 people.",
+        "roomImage": "../../../imgs/limon/hotels/selina/selina-limon-room3.jpg",
+        "discount": true,
+        "dicount-value": 1200,
+        "value": 2400,
+        "id": "hotel-selina"
+      },
+      {
+        "roomName": "Safari Tent",
+        "features": "Our cozy teepees have a beautiful design and are unique spaces that guarantee a comfortable sleep. The bathroom is shared and has free Wi-Fi, bed linen and towels. Capacity of 2 people.",
+        "roomImage": "../../../imgs/limon/hotels/selina/selina-limon-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 780,
+        "id": "hotel-selina"
+      },
+      {
+        "roomName": "Double Room Two",
+        "features": "1 double bed This double room features a tile/marble floor, patio and private entrance.Garden view, Air conditioning, Private bathroom, Flat-screen TV, Coffee machine, Streaming service (like Netflix)",
+        "roomImage": "../../../imgs/limon/hotels/physis-caribean/physis-hotel-room1.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 951,
+        "id": "physis-carybean"
+      },
+      {
+        "roomName": "Triple room",
+        "features": "This spacious room features colourful, Caribbean-style decor and offers garden views. There is a double bed, a single bed, a private bathroom with an outdoor shower, air conditioning, satellite TV.",
+        "roomImage": "../../../imgs/limon/hotels/physis-caribean/physis-hotel-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 963,
+        "id": "physis-carybean"
+      },
+      {
+        "roomName": "Honeymoon Suite",
+        "features": "This double room features a tile/marble floor, patio and private entrance.Garden view, Air conditioning, Refrigerator, Coffee maker, Desk, Private bathroom, Flat-screen TV, Coffee machine.",
+        "roomImage": "../../../imgs/limon/hotels/physis-caribean/physis-hotel-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 147,
+        "id": "physis-carybean"
+      },
+      {
+        "roomName": "Double Room",
+        "features": "1 double bed. This tent fits up to 2 people. The bathroom and shower are shared.",
+        "roomImage": "../../../imgs/limon/hotels/physis-caribean/physis-hotel-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 147,
+        "id": "physis-carybean"
+      },
+      {
+        "roomName": "Double Room Two",
+        "features": "1 double bed This double room features a tile/marble floor, patio and private entrance.Garden view, Air conditioning, Private bathroom, Flat-screen TV, Coffee machine, Streaming service (like Netflix)",
+        "roomImage": "../../../imgs/limon/hotels/physis-caribean/physis-hotel-room1.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 951,
+        "id": "physis-carybean"
+      },
+      {
+        "roomName": "Triple room",
+        "features": "This spacious room features colourful, Caribbean-style decor and offers garden views. There is a double bed, a single bed, a private bathroom with an outdoor shower, air conditioning, satellite TV.",
+        "roomImage": "../../../imgs/limon/hotels/physis-caribean/physis-hotel-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 963,
+        "id": "physis-carybean"
+      },
+      {
+        "roomName": "Honeymoon Suite",
+        "features": "This double room features a tile/marble floor, patio and private entrance.Garden view, Air conditioning, Refrigerator, Coffee maker, Desk, Private bathroom, Flat-screen TV, Coffee machine.",
+        "roomImage": "../../../imgs/limon/hotels/physis-caribean/physis-hotel-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 147,
+        "id": "physis-carybean"
+      },
+      {
+        "roomName": "Double Room",
+        "features": "1 double bed. This tent fits up to 2 people. The bathroom and shower are shared.",
+        "roomImage": "../../../imgs/limon/hotels/physis-caribean/physis-hotel-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 147,
+        "id": "physis-carybean"
+      },
+      {
+        "roomName": "Queen Room with Pool View",
+        "features": "1 double bed This double room has a balcony, air conditioning and tile/marble floor. Garden view, Air conditioning, Refrigerator, Coffee maker, Flat-screen TV, Flat-screen TVTerraceTerrace",
+        "roomImage": "../../../imgs/limon/hotels/umami/umami-hotel-room1.jpeg",
+        "discount": true,
+        "dicount-value": 852,
+        "value": 1600,
+        "id": "umami-hotel"
+      },
+      {
+        "roomName": "Suite Rooms",
+        "features": "The Suite room comes with a private bathroom, free Wi-Fi, air conditioning, and a TV with cable channels and a minibar. Capacity of 2 people.",
+        "roomImage": "../../../imgs/limon/hotels/umami/umami-hotel-room2.jpg",
+        "discount": true,
+        "dicount-value": 700,
+        "value": 1300,
+        "id": "umami-hotel"
+      },
+      {
+        "roomName": "Sandal Rooms",
+        "features": "This has a balcony, with a private bathroom, free Wi-Fi, air conditioning, and a TV with cable channels and a minibar. Capacity of 2 or 3 people.",
+        "roomImage": "../../../imgs/limon/hotels/umami/umami-hotel-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 985,
+        "id": "umami-hotel"
+      },
+      {
+        "roomName": "2 Rooms Apartment",
+        "features": "This has a balcony, with a private bathroom, free Wi-Fi, air conditioning, and a TV with cable channels and a minibar. Capacity of 3 or 4 people.",
+        "roomImage": "../../../imgs/limon/hotels/umami/umami-hotel-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 325,
+        "id": "umami-hotel"
+      },
+      {
+        "roomName": "Standard Double or Twin Room",
+        "features": "This room has 2 single beds , bath or shower, air conditioning, WiFi, coffee maker, cable TV, ironing facilities.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/best-western/western-hotel-room1.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 652,
+        "id": "best-western"
+      },
+      {
+        "roomName": "Superior Triple Room",
+        "features": "This room has 1 single bed  and 1 double bed , bath or shower, air conditioning, WiFi, coffee maker, cable TV, ironing facilities.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/best-western/western-hotel-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 452,
+        "id": "best-western"
+      },
+      {
+        "roomName": "Standard Double Room",
+        "features": "This room features 1 double bed, air conditioning, WiFi, coffee maker, cable TV, ironing facilities, and hairdryer.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/best-western/western-hotel-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 458,
+        "id": "best-western"
+      },
+      {
+        "roomName": "Superior Quadruple Room",
+        "features": "This room has 2 double beds, bath or shower, air conditioning, WiFi, coffee maker, cable TV, ironing facilities.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/best-western/western-hotel-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 987,
+        "id": "best-western"
+      },
+      {
+        "roomName": "Double Room with Pool View",
+        "features": "1 double bed, Balcony, Garden view, Pool view, Mountain view , Air conditioning , Ensuite bathroom",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/faro-beach/el-faro-room1.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 852,
+        "id": "el-faro"
+      },
+      {
+        "roomName": "Standard Quadruple Room",
+        "features": "1 extra-large double bed  and 1 sofa bed. Balcony, Garden view, Pool view, Mountain view , Air conditioning , Ensuite bathroom",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/faro-beach/el-faro-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 300,
+        "id": "el-faro"
+      },
+      {
+        "roomName": "Quadruple Room with Sea View",
+        "features": "This has 2 double beds, sofa bed, coffee maker, air conditioning, bed linen, towels, flat screen tv, free Wi-Fi and seating and dining area. With a garden, sea and mountain views.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/faro-beach/el-faro-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 785,
+        "id": "el-faro"
+      },
+      {
+        "roomName": "King Suite",
+        "features": "Suite located on the top floor. It includes a terrace with fantastic panoramic views, 1 extra-large double bed, air conditioning, 2 flat-screen TVs, WiFi, safe, coffee maker, microwave, kitchen utensils, and a bathroom with hot water",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/faro-beach/el-faro-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 632,
+        "id": "el-faro"
+      },
+      {
+        "roomName": "Double Room with Private Bathroom",
+        "features": "This has a balcony, wardrobe, air conditioning, and a TV with cable channels. With garden view and only with one bed",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/planet-B/planet-b-room1.jpg",
+        "discount": true,
+        "dicount-value": 254,
+        "value": 300,
+        "id": "hotel-planet"
+      },
+      {
+        "roomName": "Bed in 8-Bed Mixed Dormitory Room",
+        "features": "This room has single beds, bath or shower, air conditioning, WiFi, board games / puzzles, ironing facilities, outside dining area,  bed linen, towels.",
+        "roomImage": "../../../imgs//manuel-antonio/hotels/planet-B/planet-b-room2.jpg",
+        "discount": true,
+        "dicount-value": 987,
+        "value": 1200,
+        "id": "hotel-planet"
+      },
+      {
+        "roomName": "River View Suites",
+        "features": "This suite features a private entrance and seating area. Private suite, Garden view, River view, Patio, Private bathroom, Shower,Toilet, Towels.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/planet-B/planet-b-room1.jpg",
+        "discount": true,
+        "dicount-value": 581,
+        "value": 1300,
+        "id": "hotel-planet"
+      },
+      {
+        "roomName": "Bed in 4-Bed Mixed Dormitory Room",
+        "features": "This room has single beds, bath or shower, air conditioning, WiFi, board games / puzzles, ironing facilities, outside dining area,  bed linen, towels.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/planet-B/planet-b-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 985,
+        "id": "hotel-planet"
+      },
+      {
+        "roomName": "Bed in small dormitory room",
+        "features": "Air conditioning, Compact and modest, the micro room is perfect if you are looking for a place to sleep and a small area to store your belongings. The bathroom is shared.It has free Wi-Fi, air conditioning, bed linen, towels, free toiletries, and hot water. ",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/selina/selina-manuel-antonio-room1.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 785,
+        "id": "selina-manuel"
+      },
+      {
+        "roomName": "Stantard Room",
+        "features": "Our Standard room offers two guests the ideal space to relax comfortably in complete privacy. It has free Wi-Fi, air conditioning, bed linen, towels, free toiletries, and hot water. ",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/selina/selina-manuel-antonio-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 458,
+        "id": "selina-manuel"
+      },
+      {
+        "roomName": "Suite Room",
+        "features": "The Suite room comes complete with a private bathroom, free Wi-Fi, air conditioning, coffee machine, bed linen, towels, free toiletries, hot water. Capacity of 2 people.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/selina/selina-manuel-antonio-room3.jpeg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 325,
+        "id": "selina-manuel"
+      },
+      {
+        "roomName": "Community Room",
+        "features": "Selina's community rooms are not like what you find in a typical hotel. We've raised the bar to a whole new level by adding a seating area, your own personal light, shelf and locker to each bunk so your stuff is safe and secure. And with free Wi-Fi, air conditioning, and shared bathroom.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/selina/selina-manuel-antonio-room4.jpeg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 654,
+        "id": "selina-manuel"
+      },
+      {
+        "roomName": "Standard Garden View",
+        "features": "Double room with air conditioning, double bed, cable TV and full bathroom. Includes a shared balcony with a hammock and garden views.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/tabulia-tree/tabulia-room1.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 321,
+        "id": "tabulia-tree"
+      },
+      {
+        "roomName": "Superior Double Room",
+        "features": "Double room with 2 double beds, air conditioning, cable TV and full bathroom. Includes a shared balcony with a hammock and garden views.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/tabulia-tree/tabulia-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 785,
+        "id": "tabulia-tree"
+      },
+      {
+        "roomName": "Pool view room",
+        "features": "Double room with air conditioning, double bed, sofa, cable TV and full bathroom. It also includes a fridge and coffee maker. It offers pool views.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/tabulia-tree/tabulia-room3.jpg",
+        "discount": true,
+        "dicount-value": 1254,
+        "value": 987,
+        "id": "tabulia-tree"
+      },
+      {
+        "roomName": "Family room",
+        "features": "Located on the ground and first floor, our Family rooms have spectacular views of Le Caméléon’s blooming tropical gardens. Each Family room has two full-size beds or one queen and one full size bed. Also you can find air conditioning, TV with cable channels and daily housekeeping.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/tabulia-tree/tabulia-room4.jpg",
+        "discount": true,
+        "dicount-value": 985,
+        "value": 300,
+        "id": "tabulia-tree"
+      },
+      {
+        "roomName": "The Apartment",
+        "features": "The Apartment is the most comfortable, spacious option at Téva. Comes with a living room with Smart TV, a kitchen for self-caterers, a private outdoor deck, a/c in the living room and bedroom, comfortable queen bed, a sofa bed and a clean bathroom with hot water shower, you’ll feel right at home. It can accommodate up to 4 people.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/teva/teva-room1.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 458,
+        "id": "teva-hotel"
+      },
+      {
+        "roomName": "The Suite",
+        "features": "Our most spacious private accommodation, the Suite offers a larger private, air-conditioned bedroom for two, a private bathroom with solar heated water, and beautiful jungle views. Some have sofa beds that can accommodate a few extra travelers, and others are wheelchair accessible",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/teva/teva-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 256,
+        "id": "teva-hotel"
+      },
+      {
+        "roomName": "Double or Twin Room with Private Bathroom",
+        "features": "Offers the same sized private bedroom for up to two guest. It is fan-cooled, instead of air conditioning, and has access to community bathrooms. Choice of one queen bed or two individual beds.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/teva/teva-room3.jpg",
+        "discount": true,
+        "dicount-value": 987,
+        "value": 654,
+        "id": "teva-hotel"
+      },
+      {
+        "roomName": "The Comfort Quad",
+        "features": "The Comfort Quad offers air-conditioned bunk bed rooms, shared with up to four people, and an in-room private bathroom with solar hot water. You can also reserve the full room if you’re traveling with a small group and you’d all like to stay together.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/teva/teva-room4.jpg",
+        "discount": true,
+        "dicount-value": 657,
+        "value": 541,
+        "id": "teva-hotel"
+      },
+      {
+        "roomName": "Deluxe Room",
+        "features": "1 extra-large double bed This double room features air conditioning, bathrobe and sofa.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/the-falls/the-falls-room1.jpg",
+        "discount": true,
+        "dicount-value": 987,
+        "value": 654,
+        "id": "the-falls"
+      },
+      {
+        "roomName": "Twin Room With Garden View",
+        "features": "This twin room features a balcony, bathrobe and seating area. Also a fitness Center, Wi-Fi, restaurant and laundry.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/the-falls/the-falls-room2.jpg",
+        "discount": true,
+        "dicount-value": 357,
+        "value": 159,
+        "id": "the-falls"
+      },
+      {
+        "roomName": "Three-Bedroom Apartment",
+        "features": "This apartment has a dishwasher, tea/coffee maker and toaster.Also a fitness Center, Wi-Fi, restaurant and laundry.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/the-falls/the-falls-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 753,
+        "id": "the-falls"
+      },
+      {
+        "roomName": "Double Room With Garden View - 2 beds",
+        "features": "This double room has a mini-bar, patio and cable TV. Also a fitness Center, restaurant and laundry.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/the-falls/the-falls-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 951,
+        "id": "the-falls"
+      },
+      {
+        "roomName": "Double Room with Garden View",
+        "features": "This spacious room features Costa Rican-style décor, including local artwork. It has air conditioning. Features cable TV, ceiling fan and private bathroom.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/villas-lirio/villas-hotel-room1.jpg",
+        "discount": true,
+        "dicount-value": 951,
+        "value": 354,
+        "id": "villas-lirio"
+      },
+      {
+        "roomName": "Double Room with Two Double Beds - Garden View",
+        "features": "This spacious room features Costa Rican-style décor, including local artwork. It has air conditioning. There is cable TV, a ceiling fan and a private bathroom.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/villas-lirio/villas-hotel-room2.jpg",
+        "discount": true,
+        "dicount-value": 654,
+        "value": 159,
+        "id": "villas-lirio"
+      },
+      {
+        "roomName": "Suite With Garden View",
+        "features": "All our rooms have been decorated with exquisite taste, with famous works of art Costa Rican pictures and sculptors. The rooms have: Air Conditioning, Cable Channels, Deposit Box, Internet, Mini Fridge, Private Bathroom, Shower, Telephone",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/villas-lirio/villas-hotel-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 753,
+        "id": "villas-lirio"
+      },
+      {
+        "roomName": "2 Rooms Apartment",
+        "features": "This has a balcony, with a private bathroom, free Wi-Fi, air conditioning, and a TV with cable channels and a minibar. Capacity of 3 or 4 people.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/villas-lirio/villas-hotel-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 456,
+        "id": "villas-lirio"
+      },
+      {
+        "roomName": "Garden Family Room",
+        "features": "Our family rooms are ideal for small families, with a local wooden construction design, located within beautiful botanical gardens that adorn the property. Each room has a bathroom with shower, free internet, complimentary local coffee and television.",
+        "roomImage": "../../../imgs/monteverde/hotels/heliconia/heliconia-room1.jpg",
+        "discount": true,
+        "dicount-value": 145,
+        "value": 75,
+        "id": "hotel-heliconia"
+      },
+      {
+        "roomName": "King Suite",
+        "features": "Our family rooms are ideal for small families, with a local wooden construction design, located within beautiful botanical gardens that adorn the property. Each room has a bathroom with shower, free internet, complimentary local coffee and television.",
+        "roomImage": "../../../imgs/monteverde/hotels/heliconia/heliconia-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 300,
+        "id": "hotel-heliconia"
+      },
+      {
+        "roomName": "Gulf View Suites",
+        "features": "Our Junior Suites are located steps from the hotel's private nature trail with stunning views of the Nicoya Peninsula with balcony, large bathroom with shower, free internet, complimentary local coffee, and television.",
+        "roomImage": "../../../imgs/monteverde/hotels/heliconia/heliconia-room3.jpg",
+        "discount": true,
+        "dicount-value": 780,
+        "value": 300,
+        "id": "hotel-heliconia"
+      },
+      {
+        "roomName": "Upper Heliconia",
+        "features": "Our superior rooms pride themselves on their wooden construction, located in beautiful botanical gardens that decorate the property. Each room has a bathroom with a shower, free internet, complimentary local coffee and television.",
+        "roomImage": "../../../imgs/monteverde/hotels/heliconia/heliconia-room4.jpg",
+        "discount": true,
+        "dicount-value": 784,
+        "value": 591,
+        "id": "hotel-heliconia"
+      },
+      {
+        "roomName": "Apartment with Mountain View",
+        "features": "It has a terrace, patio, seating area, closet, bathroom, bath or shower, hair dryer, towels, flat screen TV, microwave, toaster, tea/coffee maker, outdoor dining area. With a mountain and river view.",
+        "roomImage": "../../../imgs/monteverde/hotels/la-guayaba/la-guayaba-room1.jpg",
+        "discount": true,
+        "dicount-value": 741,
+        "value": 356,
+        "id": "la-guayaba"
+      },
+      {
+        "roomName": "Apartment with terrace",
+        "features": "It has a terrace, patio, seating area, closet, bathroom, bath or shower, hair dryer, towels, flat screen TV, microwave, toaster, tea/coffee maker, outdoor dining area. With a mountain and river view.",
+        "roomImage": "../../../imgs/monteverde/hotels/la-guayaba/la-guayaba-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 987,
+        "id": "la-guayaba"
+      },
+      {
+        "roomName": "Elegant Queen Room",
+        "features": "It has a terrace, patio, seating area, closet, bathroom, bath or shower, hair dryer, towels, flat screen TV, tea/coffee maker, outdoor dining area. With a mountain view.",
+        "roomImage": "../../../imgs/monteverde/hotels/la-guayaba/la-guayaba-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 159,
+        "id": "la-guayaba"
+      },
+      {
+        "roomName": "Queen Bed Room",
+        "features": "It has a terrace, patio, seating area, closet, bathroom, bath or shower, hair dryer, towels, flat screen TV, tea/coffee maker, outdoor dining area. With a mountain view.",
+        "roomImage": "../../../imgs/monteverde/hotels/la-guayaba/la-guayaba-room1.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 456,
+        "id": "la-guayaba"
+      },
+      {
+        "roomName": "Two-Bedroom Villa",
+        "features": "1 double bed, Balcony, Garden view, Pool view, Mountain view , Air conditioning , Ensuite bathroom",
+        "roomImage": "../../../imgs//monteverde/hotels/la-macadamia/la-macadamia-room1.jpg",
+        "discount": true,
+        "dicount-value": 789,
+        "value": 456,
+        "id": "la-macadamia"
+      },
+      {
+        "roomName": "Garden View Villa",
+        "features": "This villa features a tile/marble floor, kitchenware and private entrance. Also has a bath or shower, flat screen TV, tea/coffee maker, air conditioning. With a garden and mountain view.",
+        "roomImage": "../../../imgs/monteverde/hotels/la-macadamia/la-macadamia-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 300,
+        "id": "la-macadamia"
+      },
+      {
+        "roomName": "Family room",
+        "features": "You can find a microwave, coffee maker, kitchen, washing machine, balcony,and seating area. With garden and mountain views and free Wi-Fi.",
+        "roomImage": "../../../imgs/monteverde/hotels/la-macadamia/la-macadamia-room3.jpg",
+        "discount": true,
+        "dicount-value": 0,
+        "value": 300,
+        "id": "la-macadamia"
+      },
+      {
+        "roomName": "Superior room",
+        "features": "This has a balcony, wardrobe, air conditioning, and a TV with cable channels. With garden views and free Wi-Fi. Only with one bed",
+        "roomImage": "../../../imgs/monteverde/hotels/la-macadamia/la-macadamia-room4.jpg",
+        "discount": true,
+        "dicount-value": 874,
+        "value": 452,
+        "id": "la-macadamia"
+      },
+      {
+        "roomName": "Familiar room",
+        "features": "This room has 2 double beds, you can find a microwave, coffee maker, and balcony. With garden and pool views and free Wi-Fi.",
+        "roomImage": "../../../imgs/monteverde/hotels/majestic-lodge/majestic-room1.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 951,
+        "id": "majestic-lodge"
+      },
+      {
+        "roomName": "Holiday Home",
+        "features": "Comes complete with a bathrooms,, air conditioning, coffee machine, bed linen, towels, free toiletries, hot water, kitchen, backyard.",
+        "roomImage": "../../../imgs/monteverde/hotels/majestic-lodge/majestic-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 1598,
+        "id": "majestic-lodge"
+      },
+      {
+        "roomName": "Superior Room",
+        "features": "This room has 4 double beds, bathroom with a shower, patio, seating area, balcony, wardrobe, kitchen, air conditioning, and a TV with cable channels. With garden views and free Wi-Fi.",
+        "roomImage": "../../../imgs/monteverde/hotels/majestic-lodge/majestic-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 852,
+        "id": "majestic-lodge"
+      },
+      {
+        "roomName": "Standard room",
+        "features": "Our Standard room offers the ideal space to relax comfortably in complete privacy. It has free Wi-Fi, air conditioning, bed linen, towels, free toiletries, and hot water. Capacity of 2 people.",
+        "roomImage": "../../../imgs/monteverde/hotels/majestic-lodge/majestic-room1.jpg",
+        "discount": true,
+        "dicount-value": 150,
+        "value": 300,
+        "id": "majestic-lodge"
+      },
+      {
+        "roomName": "Bed in small dormitory room",
+        "features": "Air conditioning, Compact and modest, the micro room is perfect if you are looking for a place to sleep and a small area to store your belongings. The bathroom is shared.It has free Wi-Fi, air conditioning, bed linen, towels, free toiletries, and hot water. ",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/selina/selina-manuel-antonio-room1.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 951,
+        "id": "selina-monte"
+      },
+      {
+        "roomName": "Stantard Room",
+        "features": "Our Standard room offers two guests the ideal space to relax comfortably in complete privacy. It has free Wi-Fi, air conditioning, bed linen, towels, free toiletries, and hot water. ",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/selina/selina-manuel-antonio-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 753,
+        "id": "selina-monte"
+      },
+      {
+        "roomName": "Suite Room",
+        "features": "The Suite room comes complete with a private bathroom, free Wi-Fi, air conditioning, coffee machine, bed linen, towels, free toiletries, hot water. Capacity of 2 people.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/selina/selina-manuel-antonio-room3.jpeg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 654,
+        "id": "selina-monte"
+      },
+      {
+        "roomName": "Community Room",
+        "features": "Selina's community rooms are not like what you find in a typical hotel. We've raised the bar to a whole new level by adding a seating area, your own personal light, shelf and locker to each bunk so your stuff is safe and secure. And with free Wi-Fi, air conditioning, and shared bathroom.",
+        "roomImage": "../../../imgs/manuel-antonio/hotels/selina/selina-manuel-antonio-room4.jpeg",
+        "discount": true,
+        "dicount-value": 900,
+        "value": 485,
+        "id": "selina-monte"
+      },{
+        "roomName": "Standard Quadruple Room",
+        "features": "This suite includes King & Twin-Sized Beds, a very spacious Lounge Area: Sofa, Table & Chairs, it has Wi-Fi, Open-Air Terrace with Cozy Seating, Complimentary Coffee & Tea.",
+        "roomImage": "../../../imgs/monteverde/hotels/santa-fe/santa-fe-room1.jpg",
+        "discount": true,
+        "dicount-value": 753,
+        "value": 456,
+        "id": "santa-fe"
+      },
+      {
+        "roomName": "Double Room",
+        "features": "It has free Wi-Fi, air conditioning, bed linen, a double room with sofa and cable TV.",
+        "roomImage": "../../../imgs/monteverde/hotels/santa-fe/santa-fe-room2.jpg",
+        "discount": true,
+        "dicount-value": 951,
+        "value": 564,
+        "id": "santa-fe"
+      },
+      {
+        "roomName": "Triple Room",
+        "features": "Offers the same sized private bedroom for up to two guest. It is fan-cooled, instead of air conditioning, and has access to community bathrooms. Choice of one queen bed or two individual beds.",
+        "roomImage": "../../../imgs/monteverde/hotels/santa-fe/santa-fe-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 456,
+        "id": "santa-fe"
+      },
+      {
+        "roomName": "Superior Quadruple Room",
+        "features": "It has free Wi-Fi, air conditioning, bed linen, a double room with sofa and cable TV, coffee maker, kitchen, washing machine, pool.",
+        "roomImage": "../../../imgs/monteverde/hotels/santa-fe/santa-fe-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 874,
+        "id": "santa-fe"
+      },{
+        "roomName": "Junior Suite",
+        "features": "1 extra-large double bed Suite con zona de estar, albornoz y balcón.",
+        "roomImage": "../../../imgs/monteverde/hotels/senda/senda-room1.jpg",
+        "discount": true,
+        "dicount-value": 654,
+        "value": 265,
+        "id": "senda-monte"
+      },
+      {
+        "roomName": "Luxury Mountain Suites",
+        "features": "This suite includes King & Twin-Sized Beds, a very spacious Lounge Area: Sofa, Table & Chairs, it has Wi-Fi, Open-Air Terrace with Cozy Seating, Complimentary Coffee & Tea.",
+        "roomImage": "../../../imgs/monteverde/hotels/senda/senda-room2.jpg",
+        "discount": true,
+        "dicount-value": 456,
+        "value": 254,
+        "id": "senda-monte"
+      },
+      {
+        "roomName": "The Senda Suites",
+        "features": "The Senda Suite is our most private and spacious suite category. As its own stand-alone bungalow it’s perfect for families, groups of 4 or couples. This suite includes King & Twin-Sized Beds, a very spacious Lounge Area: Sofa, Table & Chairs, it has Wi-Fi, Open-Air Terrace with Cozy Seating, Complimentary Coffee & Tea.",
+        "roomImage": "../../../imgs/monteverde/hotels/senda/senda-room3.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 784,
+        "id": "senda-monte"
+      },
+      {
+        "roomName": "Suite Superior",
+        "features": "This double room has a mini-bar, patio and cable TV. Also a fitness Center, restaurant and laundry.",
+        "roomImage": "../../../imgs/monteverde/hotels/senda/senda-room4.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 365,
+        "id": "senda-monte"
+      },{
+        "roomName": "Superior Queen Room with Two Queen Beds",
+        "features": "This spacious room features Costa Rican-style décor, including local artwork. It has air conditioning. Features cable TV, ceiling fan and private bathroom.",
+        "roomImage": "../../../imgs/monteverde/hotels/trapp-family/trapp-family-room1.jpg",
+        "discount": true,
+        "dicount-value": 1054,
+        "value": 875,
+        "id": "trapp-family"
+      },
+      {
+        "roomName": "Superior Room",
+        "features": "Spacious and cozy rooms overlooking our garden and the Monteverde Reserve. It has free Wi-Fi, air conditioning, Table & Chairs, Complimentary Coffee & Tea.",
+        "roomImage": "../../../imgs/monteverde/hotels/trapp-family/trapp-family-room2.jpg",
+        "discount": false,
+        "dicount-value": 0,
+        "value": 874,
+        "id": "trapp-family"
+      },
+      {
+        "roomName": "Mountain Suite",
+        "features": "Spacious and cozy rooms overlooking our garden and the Monteverde Reserve. It has free Wi-Fi, air conditioning, Table & Chairs, We offer restaurant service.",
+        "roomImage": "../../../imgs/monteverde/hotels/trapp-family/trapp-family-room3.jpg",
+        "discount": true,
+        "dicount-value": 874,
+        "value": 654,
+        "id": "trapp-family"
+      },
+      {
+        "roomName": "2 Rooms Apartment",
+        "features": "This has a balcony, with a private bathroom, free Wi-Fi, air conditioning, and a TV with cable channels and a minibar. Capacity of 3 or 4 people.",
+        "roomImage": "../../../imgs/monteverde/hotels/trapp-family/trapp-family-room4.jpg",
+        "discount": true,
+        "dicount-value": 654,
+        "value": 487,
+        "id": "trapp-family"
       }
-    ],
-    "image": "",
-    "id": "1"
-  },
-  {
-    "hotelName": "",
-    "description": "",
-    "idHotel": "2",
-    "roomsList": [
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      }
-    ],
-    "image": "",
-    "id": "2"
-  },
-  {
-    "hotelName": "",
-    "description": "",
-    "idHotel": "3",
-    "roomsList": [
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      }
-    ],
-    "image": "",
-    "id": "3"
-  },
-  {
-    "hotelName": "",
-    "description": "",
-    "idHotel": "4",
-    "roomsList": [
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      }
-    ],
-    "image": "",
-    "id": "4"
-  },
-  {
-    "hotelName": "",
-    "description": "",
-    "idHotel": "5",
-    "roomsList": [
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      }
-    ],
-    "image": "",
-    "id": "5"
-  },
-  {
-    "hotelName": "",
-    "description": "",
-    "idHotel": "6",
-    "roomsList": [
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      }
-    ],
-    "image": "",
-    "id": "6"
-  },
-  {
-    "hotelName": "",
-    "description": "",
-    "idHotel": "7",
-    "roomsList": [
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      }
-    ],
-    "image": "",
-    "id": "7"
-  },
-  {
-    "hotelName": "",
-    "description": "",
-    "idHotel": "8",
-    "roomsList": [
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      },
-      {
-        "roomName": "",
-        "features": "",
-        "roomImage": "",
-        "price": "",
-        "discount": ""
-      }
-    ],
-    "image": "",
-    "id": "8"
+    ]
   }
-
 ]
